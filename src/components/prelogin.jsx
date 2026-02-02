@@ -71,9 +71,15 @@ function PreLogin() {
                 (Men: \(10\times \text(kg)+6.25\times \text(cm)-5\times \text(age)+5\);
                  Women: \(10\times \text(kg)+6.25\times \text(cm)-5\times \text(age)-161\)).</p>
               <h3>What is Maintenance Calorie ?</h3>
-              <p></p>
+              <p>Maintenance calories are the total daily energy intake (calories) required to keep your body weight stable,
+                 where calories consumed equal calories burned. This amount sustains essential bodily functions, digestion,
+                  and daily activity levels. Eating at this, also known as Total Daily Energy Expenditure (TDEE),
+                   prevents weight gain or loss</p>
               <h3>How is Maintenance Calorie Calculated ?</h3>
-              <p></p>
+              <p>Calculate maintenance calories (Total Daily Energy Expenditure - TDEE) by determining your Basal Metabolic Rate (BMR) and 
+                multiplying it by an activity factor (1.2–1.9). 
+                The most common formula is Mifflin-St Jeor: Men: \(10\times \text(weight\ (kg))+6.25\times \text(height\ (cm))-5\times \text(age)+5\). 
+                Women: \(10\times \text(weight\ (kg))+6.25\times \text(height\ (cm))-5\times \text(age)-161\)</p>
             </div>
       </section>
      
